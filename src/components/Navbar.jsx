@@ -11,9 +11,6 @@ export default function Navbar() {
 
   const projects = [
     { name: "Paradise Valley", path: "/paradise-valley" },
-    { name: "Model Town", path: "/ModelTown" },
-    { name: "Commercial Towers", path: "/CommercialTowers" },
-    { name: "Recent Projects", path: "/projects" },
   ];
 
   return (
@@ -35,11 +32,6 @@ export default function Navbar() {
               alt="Al Burraq Logo"
               className="h-8 sm:h-10 md:h-8 w-auto object-contain transition duration-300 drop-shadow-[0_0_6px_rgba(255,255,255,0.3)]"
             />
-
-            {/* Name (Desktop Only) */}
-            <span className="hidden md:block text-lg font-semibold tracking-wide text-gray-200">
-              Al Burraq
-            </span>
 
           </Link>
 

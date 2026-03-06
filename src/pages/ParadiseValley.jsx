@@ -1,5 +1,7 @@
 import { motion } from "framer-motion";
 import { FaLeaf, FaMapMarkerAlt, FaHome, FaDollarSign } from "react-icons/fa";
+import pv from "../assets/pv1.jpeg"
+import pv1 from "../assets/pv.jpeg"
 
 export default function ParadiseValley() {
   return (
@@ -48,7 +50,7 @@ export default function ParadiseValley() {
             className="relative"
           >
             <img
-              src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=80"
+              src={pv}
               alt="Luxury Villa"
               className="rounded-3xl w-full object-cover shadow-xl"
             />
@@ -73,8 +75,8 @@ export default function ParadiseValley() {
             viewport={{ once: true }}
           >
             <img
-              src="https://images.unsplash.com/photo-1600047509358-9dc75507daeb?auto=format&fit=crop&w=1000&q=80"
-              alt="Modern House"
+              alt="pv1"
+              src={pv1}
               className="rounded-3xl w-full shadow-lg"
             />
           </motion.div>

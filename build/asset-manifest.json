@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e0021d2.css",
-    "main.js": "/static/js/main.c9e48954.js",
+    "main.css": "/static/css/main.ca1825d5.css",
+    "main.js": "/static/js/main.1cc5cf61.js",
     "static/js/453.cfc01113.chunk.js": "/static/js/453.cfc01113.chunk.js",
+    "static/media/hme.mp4": "/static/media/hme.1e00cc9f56a3bec7ec84.mp4",
+    "static/media/bagh city.png": "/static/media/bagh city.c3272ba5885292d68651.png",
+    "static/media/new City Bhera.png": "/static/media/new City Bhera.84bfbfb1864c87550342.png",
+    "static/media/executive town.png": "/static/media/executive town.9dc0dc70f32ef4b546e1.png",
+    "static/media/NCC.png": "/static/media/NCC.93b4d0f54b323b470310.png",
+    "static/media/rg.png": "/static/media/rg.488465efcb35b71a9e4a.png",
+    "static/media/Mr.png": "/static/media/Mr.f0a916eecce6168277ce.png",
+    "static/media/pv.jpeg": "/static/media/pv.330a6e8802d59bb01525.jpeg",
+    "static/media/pr.png": "/static/media/pr.f11340cf29a85dcd9b57.png",
+    "static/media/pv1.jpeg": "/static/media/pv1.eb0bb3bb2a56eda7270c.jpeg",
+    "static/media/ppv.png": "/static/media/ppv.c00dfebd166105767aa1.png",
     "static/media/bur.png": "/static/media/bur.6ed92188a5bdf0314e53.png",
     "index.html": "/index.html",
-    "main.9e0021d2.css.map": "/static/css/main.9e0021d2.css.map",
-    "main.c9e48954.js.map": "/static/js/main.c9e48954.js.map",
+    "main.ca1825d5.css.map": "/static/css/main.ca1825d5.css.map",
+    "main.1cc5cf61.js.map": "/static/js/main.1cc5cf61.js.map",
     "453.cfc01113.chunk.js.map": "/static/js/453.cfc01113.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e0021d2.css",
-    "static/js/main.c9e48954.js"
+    "static/css/main.ca1825d5.css",
+    "static/js/main.1cc5cf61.js"
   ]
 }
